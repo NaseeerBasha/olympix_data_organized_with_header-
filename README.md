@@ -21,12 +21,21 @@ Also contains player names with their age and number of gold , silver and brone 
 
 
 ## Libraries:
-* Pandas # data processing, CSV file I/O (e.g. pd.read_csv)
+* Pandas # data processing
 * Numpy #linear algebra  
 * Seaborn & Matplotlib #data visualisation
 * missingno  #  visualising missing values
 * Pyspark
 * Use of MySQL Workbench
+
+
+
+## Questions - For SQL
+-  Find the average number of medals won by each country
+- Display the countries and the number of gold medals they have won in decreasing order
+- Display the list of people and the medals they have won in descending order, grouped by their country
+- Display the list of people with the medals they have won according to their their age
+- Which country has won the most number of medals 
 
 ## Questions - For Python - Data_Science 
 - Please do the basic exploration of the data. Remember the dataset contains information from different years. So whatever steps you perform should make logical sense.
@@ -38,12 +47,7 @@ Also contains player names with their age and number of gold , silver and brone 
 - Please perform appropriate numerical measures on each column and report them accordingly.
 - Please list the top 10 countries with the gold medal, then top10 countries with the silver medal, then bronze medal and the total medal.
 
-## Questions - For SQL
--  Find the average number of medals won by each country
-- Display the countries and the number of gold medals they have won in decreasing order
-- Display the list of people and the medals they have won in descending order, grouped by their country
-- Display the list of people with the medals they have won according to their their age
-- Which country has won the most number of medals 
+
 
 
 ## Questions - For PySpark
